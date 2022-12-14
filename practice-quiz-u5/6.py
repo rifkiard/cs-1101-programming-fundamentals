@@ -1,0 +1,1 @@
+print("bib".find('b', 1, 2))
