@@ -1,0 +1,5 @@
+zzz has duplicates
+dog has no duplicates
+bookkeeper has duplicates
+subdermatoglyphic has no duplicates
+subdermatoglyphics has duplicates
