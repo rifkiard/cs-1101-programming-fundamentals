@@ -1,0 +1,1 @@
+{'Rifki': ['Honda', 'Lamborghini', 'BMW', 'Audi', 'Porsche'], 'Lexy': ['Chevrolet', 'Honda', 'BMW', 'Mercedes-Benz', 'Acura'], 'Herbu': ['Lamborghini', 'Honda', 'Jaguar', 'Acura', 'Lexus'], 'Hani': ['Audi', 'BMW', 'Porsche'], 'Amanda': ['Lexus', 'Honda'], 'Malika': ['Audi'], 'Dita': ['BMW', 'Lexus'], 'Putri': ['Porsche', 'BMW', 'Honda'], 'Sindi': ['Honda', 'Porsche', 'Lexus']}
